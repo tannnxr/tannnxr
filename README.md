@@ -14,6 +14,6 @@ Some technologies I work with are:
 
 - Node.js
 - React.js
-- Discord.py (Soon to be deprecated)
+- Discord.py
 - Discord.js
 - Roblox Studio
