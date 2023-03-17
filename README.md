@@ -4,7 +4,6 @@ I am Tanner, I am a software security analyst and engineer.  I work mainly on Ro
 
 Some current projects of mine are:
 - Molecule \\ Moderation Bot \\ Discord
-- <3 \\ NSFW Bot \\ Discord
 - Envyro \\ Ambient Enviroment System \\ Roblox
 - Artemis Administration \\ Administration System \\ Roblox
 
