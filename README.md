@@ -1,6 +1,7 @@
-![Discord Logo](https://prnt.sc/9p9hJZ8fGvA0) Discord Bot Developer
+Discord Bot Developer
 
 Projects:
+
 The Molecule Project
 
 
