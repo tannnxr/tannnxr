@@ -1,4 +1,4 @@
-![Discord Logo](https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png) Discord Bot Developer
+![Discord Logo](https://prnt.sc/9p9hJZ8fGvA0) Discord Bot Developer
 
 Projects:
 The Molecule Project
